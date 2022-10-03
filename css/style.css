@@ -7,13 +7,9 @@
     font-family: 'poppins', sans-serif;
 }
 
-body{
-    /* overflow: hidden; */
-}
-
-
 
 .container{
+    overflow: hidden;
     width:100%;
     min-height:100vh;
     background-color: #f3f5f8;
