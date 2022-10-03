@@ -246,6 +246,9 @@ height: 100%;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-left: 120px;
+    margin-top: 30px;
+    
 }
 
 .about-col-1{
@@ -260,6 +263,11 @@ height: 100%;
 .about-col-2{
     flex-basis: 60%;
    
+}
+
+.project-col-2{
+    flex-basis: 60%;
+    margin-top: -60px;
 }
 
 
